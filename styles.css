@@ -1,0 +1,78 @@
+#title {
+    font-size: 400%;
+    width: 60vmax;
+  }
+
+.center {
+    margin: auto;
+    padding: auto;
+    text-align: center;
+  }
+
+#image {
+    max-width:100%;
+    height: auto;
+    display: block;
+  }
+
+#img-div {
+    width: 95%;
+    margin: 5px auto;
+    background-color: white;
+}
+
+figcaption{
+    text-align: center;
+    margin: 10px;
+}
+
+h3{
+  font-size: 30px;
+  text-align: center;
+
+}
+
+p{
+  font-size: 20px;
+}
+
+li{
+  margin-bottom: 30px;
+  font-size: 20px;
+}
+
+.tribute-info{
+    margin: 30px;
+}
+
+q{
+  margin: auto;
+  padding: 40px;
+  text-align: center;
+  font-size: 30px;
+
+}
+.quote{
+  text-align: center;
+  font-size: 20px;
+  padding: 30px;
+  background-color: rgb(199, 201, 203)
+}
+
+.moreinfo
+{
+  font-weight: normal;
+  font-size: 20px;
+  padding: 10px
+}
+
+main {
+    background-color: rgb(245, 245, 245);
+    margin: 30px 5px;
+}
+ 
+  @media only screen and (min-width:1200px)
+  {
+ 
+
+  
